@@ -1,6 +1,6 @@
 # String Matcher Levenshtein
 
-Este programa monta uma função $f:D\rightarrow C$ sendo $D=\\{s_1,s_2,...,s_n\\}$ e $C=\\{t_1,t_2,...,t_m\\} duas listas de strings. A função $f$ é definida por:
+Este programa monta uma função $f:D\rightarrow C$ sendo $D=\\{s_1,s_2,...,s_n\\}$ e $C=\\{t_1,t_2,...,t_m\\}$ duas listas de strings. A função $f$ é definida por:
 
 $$
 f(s_i)=t_j \Leftrightarrow d(s_i,t_j)=\min\\{d(s,t)|s\in D, t\in C\\}
