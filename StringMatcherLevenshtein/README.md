@@ -48,7 +48,7 @@ Para executar este programa, você precisará de:
 ## Como Instalar
 1. Clone o repositório para sua máquina local:
    ```
-   git clone https://github.com/seu-usuario/StringMatcherLevenshtein.git
+   git clone https://github.com/JunioCesarFerreira/AlgorithmDesignAnalysis/tree/main/StringMatcherLevenshtein
    ```
 2. Navegue até o diretório do projeto clonado.
 
