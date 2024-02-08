@@ -54,11 +54,11 @@ Para executar este programa, você precisará de:
 
 ### Para a versão Go:
    ```
-   cd go-version
+   cd go-program
    ```
 ### Para a versão C#:
    ```
-   cd csharp-version
+   cd cs-program
    ```
 
 ## Como Usar
@@ -75,3 +75,5 @@ Depois de instalar os pré-requisitos e clonar o repositório, você pode execut
    ```
    dotnet run
    ```
+
+---
