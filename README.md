@@ -111,7 +111,7 @@ Este algoritmo é um exemplo clássico de como a teoria dos grafos pode ser apli
 
 ### String Matcher Levenshtein
 
-Relaciona duas listas de strings utilizando a distância de Levenshtein. Veja o README no diretório para mais detalhes.
+Relaciona duas listas de strings utilizando a distância de Levenshtein. [Veja o README no diretório para mais detalhes](./StringMatcherLevenshtein/README.md).
 
 
 ---
